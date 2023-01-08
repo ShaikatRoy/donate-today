@@ -107,3 +107,95 @@ h2{
     color: white;
     background-color: #FF5959;;
 }
+
+/* plan section */
+.plan-section{
+}
+.plan-title{
+font-weight: 700;
+font-size: 45px;
+text-align: center;
+margin-top: 100px;
+}
+.plan-description{
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #707070;
+    margin-top: 20px;
+    padding: 0px 330px;
+}
+.plan-box-container{
+display: flex;
+margin-top: 40px;
+justify-content: center;
+gap: 20px;
+}
+.one{
+    background: rgba(79, 157, 166, 0.1);
+}
+.two{
+    background: rgba(255, 89, 89, 0.1);
+}
+.three{
+  background: rgb(255,244,214) ; 
+}
+.plan-box{
+    width: 350px;
+    height: 342px;
+    border-radius: 5px;
+}
+.plan-box-icon{
+    margin: 60px 0 30px 25px ;
+}
+.plan-box-title{
+font-size: 24px;
+margin-left: 25px;
+
+}
+.plan-box-description{
+    ont-size: 16px;
+    line-height: 24px;
+    color: #707070;
+    margin: 30px 20px 0 25px;
+}
+
+/* blog section */
+
+.blog-section{
+    display: flex;
+    margin: 100px 150px;
+}
+.section-one{
+text-align: left;
+}
+.blog-title{
+    font-weight: 600;
+    font-size: 45px;
+    line-height: 48px;
+    margin-right: 150px;
+    margin-top: 60px;
+    margin-left: 5px;
+}
+.blog-description{
+    font-size: 16px;
+    line-height: 24px;
+    color: #707070;
+    margin-top: 20px;
+    margin-right: 150px;
+    margin-left: 5px;
+
+}
+.contribute-btn{
+color: #ffffff;
+background-color: #FF5959;
+margin-top: 20px;
+}
+.section-two{
+margin-right: 60px;
+}
+.donation-img{
+    width: 400px;
+    height: 450px;
+    border-radius: 5px;
+}
