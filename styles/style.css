@@ -195,37 +195,37 @@ h2 {
 }
 
 /* update section */
-.update-section{
-text-align: center;
+.update-section {
+  text-align: center;
 }
-.update-title{
-    font-weight: 700;
-    font-size: 45px;
-    margin-bottom: 10px;
+.update-title {
+  font-weight: 700;
+  font-size: 45px;
+  margin-bottom: 10px;
 }
-.update-description{
-    font-size: 16px;
-    line-height: 26px;
-    padding: 0 400px;
-    color: #707070;
-    margin-bottom: 50px;
+.update-description {
+  font-size: 16px;
+  line-height: 26px;
+  padding: 0 400px;
+  color: #707070;
+  margin-bottom: 50px;
 }
-.update-container{
-display: flex;
-justify-content: center;
-margin: auto;
-width: 800px;
-height: 200px;
-background-color: #fff4d6;
-align-items: center;
-border-radius: 5px;
+.update-container {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 800px;
+  height: 200px;
+  background-color: #fff4d6;
+  align-items: center;
+  border-radius: 5px;
 }
-.subscribe-btn{
-color: white;
-background-color: #ff5959;
+.subscribe-btn {
+  color: white;
+  background-color: #ff5959;
 }
 [type="email"] {
-  background:#707070;
+  background: #707070;
   color: white;
   border-radius: 5px;
   border-color: white;
@@ -233,33 +233,29 @@ background-color: #ff5959;
   height: 55px;
   border-style: none;
   padding: 0px 20px;
-  
 }
 ::placeholder {
   color: #e6e5e5c4;
- 
 }
 /* footer */
 
-.footer-section{
-    background: #0B0D17;
-    text-align: center;
-    height: 200px;
-    margin-top: 100px;
+.footer-section {
+  background: #0b0d17;
+  text-align: center;
+  height: 200px;
+  margin-top: 100px;
 }
-.footer-title{
-    font-family: 'Lobster';
-    font-weight: 400;
-    font-size: 36px;
-    letter-spacing: 0.5px;
-    color: #FF5959;
-    padding-top: 50px;
+.footer-title {
+  font-family: "Lobster";
+  font-weight: 400;
+  font-size: 36px;
+  letter-spacing: 0.5px;
+  color: #ff5959;
+  padding-top: 50px;
 }
-.footer-des{
-    font-size: 14px;
-    color: #D9DBE1;
-    margin-top: 40px;
-    
-    font-feature-settings: 'liga' off;
-    
+.footer-des {
+  font-size: 14px;
+  color: #d9dbe1;
+  margin-top: 40px;
+  font-feature-settings: "liga" off;
 }
